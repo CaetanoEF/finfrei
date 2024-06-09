@@ -1,0 +1,2 @@
+# finfrei
+Simplificar gerenciamento financeiro 
